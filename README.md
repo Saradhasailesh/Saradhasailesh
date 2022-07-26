@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saradha 
-- 👀 I’m interested in doing linux based projects
+- 👀 I’m interested in tech learning
 - 🌱 I’m currently learning devops
-- 💞️ I’m looking to collaborate on devops projects
+- 💞️ I’m looking to collaborate on devops tools
 - 📫 How to reach me ...
 
 <!---
