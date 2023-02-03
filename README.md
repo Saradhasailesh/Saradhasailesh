@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saradha 
-- 👀 I’m look forward to learn more about jenkins, kubernetes, Ansible,AWS, Linux, MySQL, Python,Java
-- 🌱 I’m currently learning devops
+- 👀 I’m look forward to learn more about jenkins, kubernetes, Ansible,AWS, Linux, MySQL, Python,PHP
+- 🌱 I’m currently learning PHP and Azure
 - 💞️ I’m looking to collaborate on devops tools
 - 📫 How to reach me ...
 
